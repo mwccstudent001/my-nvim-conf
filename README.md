@@ -7,3 +7,5 @@ I know the file structure on MacOS is similar to Linux, but there may be filestr
 
 In order to customize a default Neovim installation you first need to make sure you have an 'nvim' folder in your '.conf/' folder.
 Within that folder you need to make an 'init.lua' file.
+
+My 'init.lua' file is provided in this repository. As of writing I haven't finished adding to it but it's definitely usable as it is now.
